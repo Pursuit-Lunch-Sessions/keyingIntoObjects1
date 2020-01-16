@@ -1,9 +1,10 @@
 # keyingIntoObjects1
 
 // Problem Set 1
-// Given the following data, write a function that takes in a language and returns a greeting. BONUS: If no language is found or not a valid language, it should print english as default.
+// Given the following data, write a function that takes in a language and returns a greeting. BONUS: If no language is found or not a valid language, it should return english greeting as default.
 
 // Hint: You should have an object and a function that returns a value 
+// greeting("danish") ==> Velkomst
 
 // english: 'Welcome',
 // czech: 'Vitejte',
